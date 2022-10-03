@@ -1,0 +1,38 @@
+
+.header {
+    background-color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h1 {
+    margin-left: 75px;
+}
+
+.logo {
+    height: 40px;
+    width: 50px;
+    float: left;
+    
+}
+
+.navbar {
+    background-color: #E4E6C3;
+    font-family: 'Source Sans Pro', sans-serif;
+    height: 50px;
+}
+
+.navbar ul {
+    list-style: none;
+    padding: 10px;
+}
+
+.navbar li {
+    display: inline-block;
+    margin: 0 75px;
+    font-size: 20px;
+}
+
+.navbar .cart {
+    height: 35px;
+    width: 35px;
+    float: right;
+}
